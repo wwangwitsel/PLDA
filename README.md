@@ -12,7 +12,7 @@ Then, run this command to enter the MATLAB environment:
 matlab
 ```
 ## Demo
-This repository provides a demo which shows the training and testing phase of the PLDA approach coupled with one of the state-of-the-art partial label learning (PLL) approach, PL-kNN. The coupled version for other PLL approaches can be implemented easily by replacing PL-kNN with the chosen  PLL algorithm.
+This repository provides a demo which shows the training and testing phase of the PLDA approach coupled with one of the state-of-the-art partial label learning (PLL) approach, PL-kNN. The coupled version for other PLL approaches can be implemented easily by replacing PL-kNN with the chosen  PLL approach.
 
 To run demo.m, run this command in MATLAB command:
 
