@@ -1,5 +1,5 @@
 # PLDA
-This repository is the official implementation of the PARM algorithm of the paper "Partial Label Learning with Discrimination Augmentation" and technical details of this algorithm can be found in the paper. 
+This repository is the official implementation of the PLDA approach of the paper "Partial Label Learning with Discrimination Augmentation" and technical details of this algorithm can be found in the paper. 
 
 ## Requirements
 - MATLAB, version 2014a and higher.
