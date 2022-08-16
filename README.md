@@ -26,8 +26,7 @@ demo
     author = {Wang, Wei and Zhang, Min-Ling},
     title = {Partial label learning with discrimination augmentation},
     booktitle = {Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
-    address = {Washington, DC},
     year = {2022},
-    pages = {in press}
+    pages = {1920–-1928}
 }
 ```
